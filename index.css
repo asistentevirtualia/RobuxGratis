@@ -1,0 +1,17 @@
+body {
+    background: url(https://store-images.s-microsoft.com/image/apps.60351.13510798883386282.19007972-a8b6-4cc7-ba5d-ba9311808f97.17104978-8755-4bc8-a873-988455ce4f46?mode=scale&q=90&h=1080&w=1920);
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+    font-size: 81px;
+    text-align: center;
+    font-family: cursive;
+    background: #fff;
+    border-radius:20px;
+}
+
+p {
+    text-align: center;
+}
